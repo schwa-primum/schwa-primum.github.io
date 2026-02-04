@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /'dʑordʑe 'boʒovitɕ/
+subtitle: <span style="font-family: 'Arial', sans-serif>IPA: /'dʑordʑe 'boʒovitɕ/</span>
 
 profile:
   align: right
