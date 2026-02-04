@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:
 subtitle: <span style="font-family: 'Arial', sans-serif>IPA: /'dʑordʑe 'boʒovitɕ/</span>
 
 profile:
