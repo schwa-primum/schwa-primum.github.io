@@ -9,7 +9,7 @@ last_name: Božović
 contact_note:
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: Made in Yugoslavia
-keywords: djordje-bozovic, đorđe-božović, gjorgje-bozhoviq, linguistics # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -51,7 +51,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 800px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
