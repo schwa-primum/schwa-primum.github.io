@@ -27,3 +27,6 @@ latest_posts:
 PhD in Linguistics
 
 More info coming soon
+
+---
+
