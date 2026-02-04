@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>/'dʑordʑe 'boʒovitɕ/</p>
+subtitle: /'dʑordʑe 'boʒovitɕ/
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: make photo circular
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
