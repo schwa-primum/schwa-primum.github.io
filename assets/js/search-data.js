@@ -507,13 +507,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=UX_nkIoAAAAJ", "_blank");
         },
       },{
-        id: 'social-academia_edu',
-        title: 'Academia_edu',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-facebook',
         title: 'Facebook',
         section: 'Socials',
