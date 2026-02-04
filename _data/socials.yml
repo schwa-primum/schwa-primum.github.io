@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: djordje.boz@gmail.com # your email address
-orcid_id: 0000-0003-3028-5441
+orcid_id: 0000-0003-3028-5441 # your Orcid ID
 scholar_userid: UX_nkIoAAAAJ # your Google Scholar ID
-academia_edu: https://independent.academia.edu/bozhoviq
-facebook_id: gjorgje.bozhoviq
+academia_edu: https://independent.academia.edu/bozhoviq # your Academia.edu
+facebook_id: gjorgje.bozhoviq # your Facebook ID
