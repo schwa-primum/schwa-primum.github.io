@@ -1,20 +1,5 @@
 cv:
-  summary: Born in Titovo Užice, SFR Yugoslavia not long before both of those toponyms ceased to exist. Married.
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  summary: <p>Born in Titovo Užice, SFR Yugoslavia not long before both of those toponyms ceased to exist.</p> <p>Married.</p>
 
   sections:
     Education:
