@@ -7,7 +7,6 @@ dropdown: true
 children:
   - title: publications
     permalink: /publications/
-  - title: divider
   - title: presentations
     permalink: /
   - title: translations
