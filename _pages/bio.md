@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 permalink: /
 title: bio
 nav: true
