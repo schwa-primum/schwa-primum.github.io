@@ -1,8 +1,6 @@
 ---
 layout: about
 title: about
-nav: true
-nav-order: 1
 permalink: /
 subtitle: /'dʑordʑe 'boʒovitɕ/
 
