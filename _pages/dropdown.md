@@ -1,13 +1,15 @@
 ---
 layout: page
-title: submenus
+title: biblio
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: publications
+    permalink: /publications/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: presentations
+    permalink: /
+  - title: translations
+    permalink: /
 ---
